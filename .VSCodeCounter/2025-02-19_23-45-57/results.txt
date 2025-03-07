@@ -1,0 +1,94 @@
+Date : 2025-02-19 23:45:57
+Directory : d:\programming_projects\nba_application
+Total : 55 files,  3127 codes, 95 comments, 242 blanks, all 3464 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| XML              |         30 |      2,137 |         30 |         30 |      2,197 |
+| Python           |         21 |        897 |         65 |        206 |      1,168 |
+| pip requirements |          1 |         67 |          0 |          0 |         67 |
+| Markdown         |          1 |         18 |          0 |          6 |         24 |
+| Batch            |          1 |          4 |          0 |          0 |          4 |
+| PL/SQL           |          1 |          4 |          0 |          0 |          4 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |         55 |      3,127 |         95 |        242 |      3,464 |
+| . (Files)                                                             |          4 |         89 |          0 |          7 |         96 |
+| images                                                                |         30 |      2,137 |         30 |         30 |      2,197 |
+| images\svg                                                            |         30 |      2,137 |         30 |         30 |      2,197 |
+| sql                                                                   |          1 |          4 |          0 |          0 |          4 |
+| src                                                                   |         20 |        897 |         65 |        205 |      1,167 |
+| src (Files)                                                           |          4 |         52 |         51 |         31 |        134 |
+| src\data_handling                                                     |          4 |        162 |          0 |         42 |        204 |
+| src\database                                                          |          3 |        303 |          2 |         23 |        328 |
+| src\frames                                                            |          7 |        339 |          8 |         94 |        441 |
+| src\requests                                                          |          2 |         41 |          4 |         15 |         60 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                              | language         | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| d:\programming_projects\nba_application\NBAStatsGUI.bat               | Batch            |          4 |          0 |          0 |          4 |
+| d:\programming_projects\nba_application\README.md                     | Markdown         |         18 |          0 |          6 |         24 |
+| d:\programming_projects\nba_application\__init__.py                   | Python           |          0 |          0 |          1 |          1 |
+| d:\programming_projects\nba_application\images\svg\ATL_logo.svg       | XML              |         23 |          1 |          1 |         25 |
+| d:\programming_projects\nba_application\images\svg\BKN_logo.svg       | XML              |         64 |          1 |          1 |         66 |
+| d:\programming_projects\nba_application\images\svg\BOS_logo.svg       | XML              |        316 |          1 |          1 |        318 |
+| d:\programming_projects\nba_application\images\svg\CHA_logo.svg       | XML              |         98 |          1 |          1 |        100 |
+| d:\programming_projects\nba_application\images\svg\CHI_logo.svg       | XML              |         88 |          1 |          1 |         90 |
+| d:\programming_projects\nba_application\images\svg\CLE_logo.svg       | XML              |         17 |          1 |          1 |         19 |
+| d:\programming_projects\nba_application\images\svg\DAL_logo.svg       | XML              |        146 |          1 |          1 |        148 |
+| d:\programming_projects\nba_application\images\svg\DEN_logo.svg       | XML              |         36 |          1 |          1 |         38 |
+| d:\programming_projects\nba_application\images\svg\DET_logo.svg       | XML              |         74 |          1 |          1 |         76 |
+| d:\programming_projects\nba_application\images\svg\GSW_logo.svg       | XML              |         33 |          1 |          1 |         35 |
+| d:\programming_projects\nba_application\images\svg\HOU_logo.svg       | XML              |         32 |          1 |          1 |         34 |
+| d:\programming_projects\nba_application\images\svg\IND_logo.svg       | XML              |         35 |          1 |          1 |         37 |
+| d:\programming_projects\nba_application\images\svg\LAC_logo.svg       | XML              |         42 |          1 |          1 |         44 |
+| d:\programming_projects\nba_application\images\svg\LAL_logo.svg       | XML              |        117 |          1 |          1 |        119 |
+| d:\programming_projects\nba_application\images\svg\MEM_logo.svg       | XML              |         38 |          1 |          1 |         40 |
+| d:\programming_projects\nba_application\images\svg\MIA_logo.svg       | XML              |         66 |          1 |          1 |         68 |
+| d:\programming_projects\nba_application\images\svg\MIL_logo.svg       | XML              |         52 |          1 |          1 |         54 |
+| d:\programming_projects\nba_application\images\svg\MIN_logo.svg       | XML              |         57 |          1 |          1 |         59 |
+| d:\programming_projects\nba_application\images\svg\NOP_logo.svg       | XML              |        202 |          1 |          1 |        204 |
+| d:\programming_projects\nba_application\images\svg\NYK_logo.svg       | XML              |        101 |          1 |          1 |        103 |
+| d:\programming_projects\nba_application\images\svg\OKC_logo.svg       | XML              |         86 |          1 |          1 |         88 |
+| d:\programming_projects\nba_application\images\svg\ORL_logo.svg       | XML              |         90 |          1 |          1 |         92 |
+| d:\programming_projects\nba_application\images\svg\PHI_logo.svg       | XML              |         53 |          1 |          1 |         55 |
+| d:\programming_projects\nba_application\images\svg\PHX_logo.svg       | XML              |         29 |          1 |          1 |         31 |
+| d:\programming_projects\nba_application\images\svg\POR_logo.svg       | XML              |         25 |          1 |          1 |         27 |
+| d:\programming_projects\nba_application\images\svg\SAC_logo.svg       | XML              |         46 |          1 |          1 |         48 |
+| d:\programming_projects\nba_application\images\svg\SAS_logo.svg       | XML              |         23 |          1 |          1 |         25 |
+| d:\programming_projects\nba_application\images\svg\TOR_logo.svg       | XML              |         94 |          1 |          1 |         96 |
+| d:\programming_projects\nba_application\images\svg\UTA_logo.svg       | XML              |         16 |          1 |          1 |         18 |
+| d:\programming_projects\nba_application\images\svg\WAS_logo.svg       | XML              |         38 |          1 |          1 |         40 |
+| d:\programming_projects\nba_application\requirements.txt              | pip requirements |         67 |          0 |          0 |         67 |
+| d:\programming_projects\nba_application\sql\delete_allstar.sql        | PL/SQL           |          4 |          0 |          0 |          4 |
+| d:\programming_projects\nba_application\src\__init__.py               | Python           |          0 |          0 |          1 |          1 |
+| d:\programming_projects\nba_application\src\data_handling\__init__.py | Python           |          0 |          0 |          1 |          1 |
+| d:\programming_projects\nba_application\src\data_handling\cleaning.py | Python           |         26 |          0 |          9 |         35 |
+| d:\programming_projects\nba_application\src\data_handling\player.py   | Python           |         62 |          0 |         14 |         76 |
+| d:\programming_projects\nba_application\src\data_handling\team.py     | Python           |         74 |          0 |         18 |         92 |
+| d:\programming_projects\nba_application\src\database\__init__.py      | Python           |          0 |          0 |          1 |          1 |
+| d:\programming_projects\nba_application\src\database\config.py        | Python           |         70 |          2 |         16 |         88 |
+| d:\programming_projects\nba_application\src\database\query.py         | Python           |        233 |          0 |          6 |        239 |
+| d:\programming_projects\nba_application\src\frames\__init__.py        | Python           |          0 |          0 |          1 |          1 |
+| d:\programming_projects\nba_application\src\frames\baseframe.py       | Python           |         15 |          0 |          5 |         20 |
+| d:\programming_projects\nba_application\src\frames\header.py          | Python           |          7 |          0 |          1 |          8 |
+| d:\programming_projects\nba_application\src\frames\menu.py            | Python           |         27 |          0 |         10 |         37 |
+| d:\programming_projects\nba_application\src\frames\mode_selector.py   | Python           |         15 |          0 |          7 |         22 |
+| d:\programming_projects\nba_application\src\frames\result_frame.py    | Python           |        187 |          7 |         53 |        247 |
+| d:\programming_projects\nba_application\src\frames\search_menu.py     | Python           |         88 |          1 |         17 |        106 |
+| d:\programming_projects\nba_application\src\main.py                   | Python           |         37 |          5 |         11 |         53 |
+| d:\programming_projects\nba_application\src\requests\__init__.py      | Python           |          0 |          0 |          1 |          1 |
+| d:\programming_projects\nba_application\src\requests\image_request.py | Python           |         41 |          4 |         14 |         59 |
+| d:\programming_projects\nba_application\src\test.py                   | Python           |         10 |         45 |         19 |         74 |
+| d:\programming_projects\nba_application\src\utility.py                | Python           |          5 |          1 |          0 |          6 |
+| Total                                                                 |                  |      3,127 |         95 |        242 |      3,464 |
++-----------------------------------------------------------------------+------------------+------------+------------+------------+------------+
